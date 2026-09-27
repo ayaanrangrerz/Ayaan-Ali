@@ -1,0 +1,6 @@
+{
+  "name": "Ayaan Digital",
+  "description": "Ayaan Digital builds modern websites, digital marketing experiences and AI-powered digital solutions for businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
